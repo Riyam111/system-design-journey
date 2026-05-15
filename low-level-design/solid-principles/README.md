@@ -28,3 +28,7 @@ SOLID principles are design principles that help write:
 - Cleaner architecture
 - Easier testing
 - Reusable code
+###  read these blogs to understand more about solid principles
+https://blog.algomaster.io/p/solid-principles-explained-with-code
+
+https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
